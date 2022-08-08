@@ -39,7 +39,7 @@ public class swap_celsius {
     }
     //    Tạo phương thức chuyển từ độ F qua C
     public static  double fToC(double f){
-        double fah = (5.0 / 9) * (f - 32);
-        return fah;
+        double cel = (5.0 / 9) * (f - 32);
+        return cel;
     }
 }
